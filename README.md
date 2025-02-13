@@ -8,9 +8,10 @@ No momento estou cursando o segundo semestre do curso de Desenvolvimento de Soft
 
 ![Arthur Fukunaga Fagundes Nepomuceno GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur0fukunaga&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&compact_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Tecnilogias que eu uso no meu dia
+
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

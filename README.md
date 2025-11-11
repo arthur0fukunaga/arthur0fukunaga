@@ -1,7 +1,7 @@
 ### Olá eu sou o Arthur Fukunaga 👋
 
 Sou Técnico em Desenvolvimento de Sistemas, formado pela unidade ETEC Registro, possuo dominância nas ferramentas de Design UX/UI, HTML5, CSS3, JavaScript, Node.JS, Java e criação de Banco de Dados através da linguagem SQL.
-No momento estou cursando o segundo semestre do curso de Desenvolvimento de Software Multiplataforma na unidade FATEC Registro.
+No momento estou cursando o terceiro semestre do curso de Desenvolvimento de Software Multiplataforma na unidade FATEC Registro.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurwzt_zz?igsh=MW9zdXNtc2t5ZzEzdw%3D%3D&utm_source=qr )
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-fukunaga-fagundes-nepomuceno-483001232/ )
